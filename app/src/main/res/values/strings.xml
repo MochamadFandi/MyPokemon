@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyPokemon</string>
+    <string name="logo">logo</string>
+    <string name="wild_pokemon">Wild Pokemon</string>
+    <string name="type">Type:</string>
+    <string name="move">Move:</string>
+    <string name="catch_poke">Catch</string>
+    <string name="my_pokemon">My Pokemon</string>
+    <string name="succes_catch">Berhasil Menangkap</string>
+    <string name="insert_nick">Masukkan Nickname</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="fled">Gagal Menangkap</string>
+    <string name="release">Transfer</string>
+    <string name="delete_poke">Apakah anda ingin mentransfer pokemon ini</string>
+    <string name="yes">ya</string>
+    <string name="no">tidak</string>
+    <string name="transfer_success">Pokemon berhasil ditransfer</string>
+    <string name="release_poke">Release</string>
+    <string name="save_pokemon">Pokemon berhasil ditangkap</string>
+    <string name="empty_pokemon">Anda belum punya pokemon, silahkan pergi ke wild untuk tangkap pokemon</string>
+    <string name="nickname">Nickname:</string>
+    <string name="back">kembali</string>
+    <string name="home">home</string>
+    <string name="wild">Wild</string>
+    <string name="double_back">Mohon untuk klik Back kembali untuk keluar !</string>
+</resources>
